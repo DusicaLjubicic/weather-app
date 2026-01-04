@@ -1,9 +1,9 @@
-# Ignoriši config fajl
+# Ignore config file
 settings.cfg
 
-# Ignoriši virtualno okruženje
+# Ignore virtual environment
 venv/
 
-# Ignoriši Python cache fajlove
+# Ignore Python cache files
 __pycache__/
 *.pyc
